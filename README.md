@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World 
 
-Currently learning Python (v3.9) <br />
+Currently learning Python (v3.9) and TypeScript (beginner i know nothing)<br />
 Beginner programmer <br />
 StackOverflow: BradTFT <br />
 Check my repos for what im working on <br />
@@ -8,3 +8,5 @@ Check my repos for what im working on <br />
 
 Contact me directly: <br />
 Discord: LoosedAnimal73#9302 <br />
+
+let theCoding = "Begin"
